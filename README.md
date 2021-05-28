@@ -1,1 +1,1 @@
-In this project user can create to list,edit list,mark as their list which complete or not complete and last user can delete their list.
+In this project user can create list,edit list and edit list.They can aslo mark as their list which complete or not complete .
